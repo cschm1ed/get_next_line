@@ -6,11 +6,11 @@
 /*   By: cschmied <cschmied@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/16 15:58:35 by cschmied          #+#    #+#             */
-/*   Updated: 2023/04/14 19:28:53 by cschmied         ###   ########.fr       */
+/*   Updated: 2023/04/22 10:25:21 by cschmied         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "../includes/get_next_line.h"
 
 /**
  * ft_strdup - duplicates a string

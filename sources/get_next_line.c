@@ -6,11 +6,11 @@
 /*   By: cschmied <cschmied@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/18 15:00:52 by cschmied          #+#    #+#             */
-/*   Updated: 2023/04/14 19:32:41 by cschmied         ###   ########.fr       */
+/*   Updated: 2023/04/22 10:25:44 by cschmied         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "../includes/get_next_line.h"
 
 /**
  * get_next_line - reads a line from a file descriptor

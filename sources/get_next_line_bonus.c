@@ -6,11 +6,11 @@
 /*   By: cschmied <cschmied@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/18 15:00:52 by cschmied          #+#    #+#             */
-/*   Updated: 2023/04/14 19:32:16 by cschmied         ###   ########.fr       */
+/*   Updated: 2023/04/22 10:25:28 by cschmied         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "../includes/get_next_line_bonus.h"
 
 /**
  * read_line_to_buffer - reads a line from a file descriptor and appends it to a buffer
